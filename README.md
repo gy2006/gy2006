@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gy2006/gy2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gy2006&count_private=true&show_icons=true&theme=dark)
+### About Me 👋
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gy2006&count_private=true&show_icons=true&theme=dark" width="380">
+
+- A developer
+- Author of open source CI/CD server [flow.ci](https://flowci.github.io)
